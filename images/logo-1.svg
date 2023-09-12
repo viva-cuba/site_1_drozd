@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="344" height="144" viewBox="0 0 344 144">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 66.667px;
+        mix-blend-mode: hue;
+        fill: #184dd4;
+        font-family: "Book Antiqua";
+      }
+    </style>
+  </defs>
+  <text id="Клиника_Дроздовых" data-name="Клиника  Дроздовых" class="cls-1" x="1" y="46">Клиника <tspan x="1" dy="80">Дроздовых</tspan></text>
+</svg>
